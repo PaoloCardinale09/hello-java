@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85866d78-1109-46f2-a62f-2eb935831381" name="Changes" comment="print &quot;Hello Word&quot;e">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    <list default="true" id="85866d78-1109-46f2-a62f-2eb935831381" name="Changes" comment="delete main class autocreate">
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/HelloJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685457338455</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="delete main class autocreate">
+      <created>1685457575673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685457575673</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="print &quot;Hello Word&quot;" />
     <MESSAGE value="print &quot;Hello Word&quot;e" />
-    <option name="LAST_COMMIT_MESSAGE" value="print &quot;Hello Word&quot;e" />
+    <MESSAGE value="delete main class autocreate" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete main class autocreate" />
   </component>
 </project>
